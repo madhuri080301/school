@@ -1,0 +1,5 @@
+cloudinary.config({ 
+  cloud_name: 'pharmacy-management', 
+  api_key: '839558444562869', 
+  api_secret: 'qj8cuTFpXSv9qo2gIwHSofKj0BY' 
+});
