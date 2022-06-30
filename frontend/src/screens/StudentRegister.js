@@ -41,6 +41,7 @@ const StudentRegister = ({ history }) => {
       method: 'POST',
       headers: {
         'Content-Type': 'application/x-www-form-urlencoded',
+        "Access-Control-Allow-Origin":"*"
       },
       
       data: formData,
